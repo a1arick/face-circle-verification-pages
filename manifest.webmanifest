@@ -1,0 +1,17 @@
+{
+  "name": "Orbit ID: проверка лица",
+  "short_name": "Orbit ID",
+  "description": "Локальная проверка лица по круговой траектории",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f1f4ef",
+  "theme_color": "#176a4e",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
